@@ -1,0 +1,14 @@
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\bin\Debug\net8.0\BlockChain P.exe
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\bin\Debug\net8.0\BlockChain P.deps.json
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\bin\Debug\net8.0\BlockChain P.runtimeconfig.json
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\bin\Debug\net8.0\BlockChain P.dll
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\bin\Debug\net8.0\BlockChain P.pdb
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.AssemblyInfoInputs.cache
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.AssemblyInfo.cs
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.dll
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\refint\BlockChain P.dll
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.pdb
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\BlockChain P.genruntimeconfig.cache
+C:\Users\germa\OneDrive\Рабочий стол\BlockChain P31\BlockChain P\obj\Debug\net8.0\ref\BlockChain P.dll

@@ -1,0 +1,59 @@
+{
+  "Difficulty": 3,
+  "Chain": [
+    {
+      "Index": 0,
+      "TimeStamp": "2026-07-19T18:14:11.7764155+02:00",
+      "Data": "Genesis Block",
+      "Author": "Genesis Author",
+      "Hash": "0002b739fd0ebda1467fa51963feda55de7dcc49bb655fcb16410a955ece607f",
+      "PrevHash": "0",
+      "Nonce": 1839
+    },
+    {
+      "Index": 1,
+      "TimeStamp": "2026-07-19T18:14:11.7812325+02:00",
+      "Data": "Block 1",
+      "Author": "demo",
+      "Hash": "000d82318bfd9fae8ffbdfa390c1d6d6825f46b5e956cfc6daf319c831cf1ba3",
+      "PrevHash": "0002b739fd0ebda1467fa51963feda55de7dcc49bb655fcb16410a955ece607f",
+      "Nonce": 43004
+    },
+    {
+      "Index": 2,
+      "TimeStamp": "2026-07-19T18:14:11.8861976+02:00",
+      "Data": "Block 2",
+      "Author": "demo",
+      "Hash": "0003944ec4f938e07a8817257a5628084498944b9bbefd6f53d814d14384b4d9",
+      "PrevHash": "000d82318bfd9fae8ffbdfa390c1d6d6825f46b5e956cfc6daf319c831cf1ba3",
+      "Nonce": 2401
+    },
+    {
+      "Index": 3,
+      "TimeStamp": "2026-07-19T18:14:11.8922938+02:00",
+      "Data": "Block 3",
+      "Author": "demo",
+      "Hash": "000cad41ed9a27ccd2d464334b349f722ff9cb0cf419c8ab1caa92fdc3c11679",
+      "PrevHash": "0003944ec4f938e07a8817257a5628084498944b9bbefd6f53d814d14384b4d9",
+      "Nonce": 2046
+    },
+    {
+      "Index": 4,
+      "TimeStamp": "2026-07-19T18:14:11.8979518+02:00",
+      "Data": "44",
+      "Author": "demo",
+      "Hash": "0006e5b743a4159eaaa80e9d241939b6c586c23db945e2236644b27960fd3db8",
+      "PrevHash": "000cad41ed9a27ccd2d464334b349f722ff9cb0cf419c8ab1caa92fdc3c11679",
+      "Nonce": 2464
+    },
+    {
+      "Index": 5,
+      "TimeStamp": "2026-07-19T18:14:11.9120722+02:00",
+      "Data": "Block 5",
+      "Author": "demo",
+      "Hash": "00054b4972b106baee96589981e778ead4ffe84aa7d7438a149f158ef0a40869",
+      "PrevHash": "0006e5b743a4159eaaa80e9d241939b6c586c23db945e2236644b27960fd3db8",
+      "Nonce": 7315
+    }
+  ]
+}
